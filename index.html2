@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Blog</title>
+        <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+  <script>
+  new WOW().init();
+  </script>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css"
+    </head>
+    <body>
+        <h1>Why Ronaldo is better than Messi</h1>
+        <a href=https://www.sportskeeda.com/football/5-reasons-cristiano-ronaldo-better-lionel-messi>This page backs me up a lot!</a>
+        <p>Ronaldo is better than messi because he <em>scores more goals</em> in the <strong>champions league</strong> and is a higher overall rank in fifa</p>
+        <ol>
+            <li>Ronaldo is a great shooter</li>
+            <li>He is not a rapist</li>
+            <li>He is now on the cover of Fifa 19</li>
+        </ol>
+       <hr>
+        <h2>Why Messi is better than Ronaldo</h2>
+        <p>Messi is better than Ronaldo because he is a <em>better overall team player</em>in <strong>La Liga</strong>and is consistant on the pitch</p>
+       <hr>
+        <h3>Why they both suck and King Zlatan is the best</h3>
+        <p>King Zlatan is the best player in the world because.....well <strong>he's Zlatan</strong> and his amazing bicycle kick at the world cup proves it</p>
+        <hr>
+        <h3>Conclusion</h3>
+        <p> At the end of the day we all can agree that King Zlatan is the best</p>
+
+    <!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    </body>
+</html>
